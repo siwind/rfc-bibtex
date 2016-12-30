@@ -1,5 +1,5 @@
 # rfc-bibtex
-Bibtex information for IETF RFC fiels.
+Bibtex information for IETF RFC files.
 
 # segment sample 
 ```
