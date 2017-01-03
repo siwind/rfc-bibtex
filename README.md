@@ -5,32 +5,36 @@ Bibtex information for IETF RFC files.
 ```
 ......
 
-@TechReport{rfc6722,
-    AUTHOR = "P. Hoffman",
-    TITLE = "{Publishing the "Tao of the IETF" as a Web Page}",
-    TYPE = "{RFC}",
-    NUMBER = "6722",
-    INSTITUTION = "{Internet Engineering Task Force}",
-    PUBLISHER = "{RFC Editor}",
-    YEAR = 2012,
-    MONTH = "August",
-    DOI = "{10.17487/RFC6722}",
-    HOWPUBLISHED = "{Internet Requests for Comments}",
-    URL = "{http://www.rfc-editor.org/rfc/rfc6722.txt}"
+@TechReport{rfc7170,
+	AUTHOR = "H. Zhou and N. Cam-Winget and J. Salowey and S. Hanna",
+	TITLE = "{Tunnel Extensible Authentication Protocol (TEAP) Version 1}",
+	TYPE = "{RFC}",
+	NUMBER = "7170",
+	INSTITUTION = "{Internet Engineering Task Force}",
+	PUBLISHER = "{RFC Editor}",
+	YEAR = 2014,
+	MONTH = "May",
+	ISSN = "{2070-1721}",
+	PAGES = "1-101",
+	DOI = "{10.17487/RFC7170}",
+	HOWPUBLISHED = "{Internet Requests for Comments}",
+	URL = "{http://www.rfc-editor.org/rfc/rfc7170.txt}"
 }
 
-@TechReport{rfc6723,
-    AUTHOR = "L. Jin and R. Key and S. Delord and T. Nadeau and S. Boutros",
-    TITLE = "{Update of the Pseudowire Control-Word Negotiation Mechanism}",
-    TYPE = "{RFC}",
-    NUMBER = "6723",
-    INSTITUTION = "{Internet Engineering Task Force}",
-    PUBLISHER = "{RFC Editor}",
-    YEAR = 2012,
-    MONTH = "September",
-    DOI = "{10.17487/RFC6723}",
-    HOWPUBLISHED = "{Internet Requests for Comments}",
-    URL = "{http://www.rfc-editor.org/rfc/rfc6723.txt}"
+@TechReport{rfc7171,
+	AUTHOR = "N. Cam-Winget and P. Sangster",
+	TITLE = "{PT-EAP: Posture Transport (PT) Protocol for Extensible Authentication Protocol (EAP) Tunnel Methods}",
+	TYPE = "{RFC}",
+	NUMBER = "7171",
+	INSTITUTION = "{Internet Engineering Task Force}",
+	PUBLISHER = "{RFC Editor}",
+	YEAR = 2014,
+	MONTH = "May",
+	ISSN = "{2070-1721}",
+	PAGES = "1-19",
+	DOI = "{10.17487/RFC7171}",
+	HOWPUBLISHED = "{Internet Requests for Comments}",
+	URL = "{http://www.rfc-editor.org/rfc/rfc7171.txt}"
 }
 ......
 
