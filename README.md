@@ -1,7 +1,7 @@
 # rfc-bibtex
-Bibtex information for IETF RFC files.
+Bibtex information for all IETF RFC files.
 
-# segment sample 
+# Sample 
 ```
 ......
 
@@ -39,3 +39,5 @@ Bibtex information for IETF RFC files.
 ......
 
 ```
+
+
