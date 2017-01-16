@@ -1,6 +1,6 @@
 # rfc-bibtex
 Bibtex information for all IETF RFC files.
-Click here to access each [online RFC file bibtex information](http://siwind.applinzi.com/rfc.php "Bibtex information for RFC files").
+Click here to access **[each online RFC file bibtex information](http://siwind.applinzi.com/rfc.php "Bibtex information for RFC files")**.
 
 # Sample 
 ```
